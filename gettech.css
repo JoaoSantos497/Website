@@ -1,0 +1,16 @@
+
+.head {
+    background: white;
+
+}
+
+.title {
+    color: black;
+    text-align: left;
+    padding: 20px;
+    background: #f1f1f1;
+    font-size: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
